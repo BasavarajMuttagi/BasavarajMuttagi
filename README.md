@@ -4,6 +4,7 @@
 
 <h2>Currently Expanding My Skills In</h2>
 <ul>
+  <li> ios App Development</li>
   <li>🌐 Node.js for backend development</li>
   <li>🤖 RAG (Retrieval Augmented Generation) for AI-powered applications</li>
   <li>🏗️ Microservices architecture for building scalable systems</li>
